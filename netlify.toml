@@ -4,5 +4,5 @@
   command = "npm run build"
 
 [template.environment]
-  NAME = "enter Name of the receiver"
+  NAME = "Lhedy"
   PIC = "enter web url of the receiver's image"
